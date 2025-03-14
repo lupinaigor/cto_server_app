@@ -43,3 +43,5 @@ def validate_product_data(data):
         raise ValidationError("Price must be a valid decimal number.")
 
     validate_price(price)
+
+    # юбдощршгргшршг

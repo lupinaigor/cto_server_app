@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd6915a-10fb-4a42-b7c8-acb7cc222caa" name="Changes" comment="Changes2" />
+    <list default="true" id="cdd6915a-10fb-4a42-b7c8-acb7cc222caa" name="Changes" comment="cto_server_app completed1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/utils/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/utils/validators.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/lupinaigor/cto_server_app&quot;,
     &quot;accountId&quot;: &quot;2f78185d-d01c-473a-aaf6-5c6852e8b500&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;lupinaigor&quot;,
+    &quot;repository&quot;: &quot;cto_server_app&quot;
   }
 }</component>
   <component name="InvalidFacetManager">
@@ -112,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739185864019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cto_server_app completed">
+      <option name="closed" value="true" />
+      <created>1739446646631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739446646631</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +143,7 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="Changes1" />
     <MESSAGE value="Changes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes2" />
+    <MESSAGE value="cto_server_app completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="cto_server_app completed" />
   </component>
 </project>
